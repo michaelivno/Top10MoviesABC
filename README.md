@@ -57,7 +57,7 @@ Alrighty, let's get this party started! Follow these steps to get the project up
 1. **Clone the repository**
    ```bash
    git clone https://github.com/michaelivno/Top10MoviesABC.git
-   cd top10movies
+   cd top10moviesabc
    ```
 
 2. **Install Front-end Dependencies**
