@@ -26,7 +26,7 @@ This project aims to provide a seamless experience for managing and viewing a li
 - Built with ASP.NET Core 8 and SQLite for simplicity and efficiency.
 - Dapper for data access – because who needs the overhead, right?
 - AutoMapper for easy mapping between DTOs and entities.
-- Centralized error handling with custom middleware.
+- Centralized error handling.
 - Logging with NLog – because logs are the windows into the soul of an app.
 
 ## Tech Stack
@@ -56,7 +56,7 @@ Alrighty, let's get this party started! Follow these steps to get the project up
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/michaelivno/Top10Movies.git
+   git clone https://github.com/michaelivno/Top10MoviesABC.git
    cd top10movies
    ```
 
