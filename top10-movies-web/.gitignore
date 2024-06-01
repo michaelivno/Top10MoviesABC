@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Build directory
+build/
+
+# Environment variable files
+.env
+
+# Lock files
+yarn.lock
+package-lock.json
+
+# Coverage directory used by testing tools
+coverage/
+
+

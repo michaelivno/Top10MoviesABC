@@ -1,0 +1,31 @@
+# .NET build directories
+bin/
+obj/
+
+# User secrets
+secrets.json
+
+# Environment variable files
+.env
+
+# Log files
+logs/
+*.log
+
+# Visual Studio specific files
+.vscode/
+.vs/
+.idea/
+
+# Rider specific files
+.idea/
+.idea_modules/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows specific files
+*.db
+*.DS_Store
+Thumbs.db

@@ -1,0 +1,15 @@
+.styled-header {
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    background: linear-gradient(45deg, #3a3a3a 30%, #5a5a5a 90%);
+    border-radius: 8px;
+    box-shadow: 0 3px 5px 2px rgba(90, 90, 90, 0.3);
+  }
+  
+  .styled-header-text {
+    font-weight: bold;
+    color: #f0f0f0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
